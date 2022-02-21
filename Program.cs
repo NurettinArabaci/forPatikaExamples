@@ -7,6 +7,7 @@ namespace consoleders
         public static void Main(string[] args)
         {
             Console.WriteLine("selam");
+            Console.ReadLine();
         }
     }
 }
